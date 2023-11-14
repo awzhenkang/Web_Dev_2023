@@ -1,0 +1,32 @@
+body {
+  background-color:aliceblue;
+}
+
+img {
+  border-radius: 50%;
+}
+
+h1 {
+  color: #008B8B;
+}
+
+h2 {
+  color: #DEB887;
+}
+
+h3 {
+  color: lightsalmon; 
+}
+
+h4 {
+  color: lightgreen;
+}
+
+
+ul { 
+  color: #483DB8; 
+}
+
+
+
+
